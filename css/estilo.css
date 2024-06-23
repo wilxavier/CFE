@@ -5,7 +5,9 @@ header img {
 }
 
 /*Conteudo principal*/
-
+main{
+    min-height: 500px;
+}
 
 /*banner*/
 #section-banners img{
